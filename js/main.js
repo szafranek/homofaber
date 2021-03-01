@@ -69,7 +69,7 @@ var Words = window.Words || {};
     };
 
     window.addEventListener("load", function() {
-        Words.loader.loadTerms("/data/homofaber.txt");
+        Words.loader.loadTerms("./data/homofaber.txt");
         setupScreen();
         setupUserEvents();
     });
