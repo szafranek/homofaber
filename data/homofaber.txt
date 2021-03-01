@@ -7,7 +7,6 @@ befürchten - to fear
 behaupten - to assert
 betreffend - concerning
 beziehungsweise - respectively, or
-bloß - bare
 bloß - bare, only
 brüllen - shout, roar
 das Fahrgestell - chassis
@@ -54,8 +53,7 @@ die Tinte - ink
 die Tragfläche - wing
 die Weile - while
 dreckig - filthy
-eben - flat, even
-eben - just, precisely
+eben - flat, even, just, precisely
 ein Affenschwein haben - to have luck
 einheimisch - native
 einig - agreed
@@ -64,13 +62,11 @@ entschließen - to make up one's mind
 erklärlich - understandable
 errechenbar - calculable
 falten - to fold
-fassen - grab
 fassen - to grab
 fetzen - to tear
 flimmern - to flicker
 flitzen - to shoot, to dart
-geradezu - almost
-geradezu - direct, blunt
+geradezu - almost, direct, blunt
 günsting - favorable
 hallen - to echo
 irgendein - some
@@ -82,19 +78,17 @@ lediglich - only, merely
 neuerdings - recently
 obschon - although
 offenbar - obvious
-offenbar - obviously
 pfeifen - to whistle
 plumpsen - splash
 reglos - motionless
 reiben - to rub
 rieseln - to trickle
 ringsum - all around
-rutschen - slide, slip
+rutschen - to slide, to slip
 sacken - to plummet
 sausen - to whistle
 scheppern - to clank
-schlottern - to shiver
-schlottern - to tremble
+schlottern - to shiver, to shiver
 schwindlig - dizzy
 schwitzen - to sweat
 senkrecht - vertical
