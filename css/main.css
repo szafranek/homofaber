@@ -1,0 +1,426 @@
+html {
+    font-size: 62.5%;
+}
+body {
+    font-family: lato-light, sans-serif;
+    background: #26262d url("../images/bg.png");
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+.main {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: default;
+    overflow: hidden;
+}
+/* =screens
+-----------------------------*/
+.screens {
+    position: absolute;
+    height: 100%;
+    width: 400%;
+    left: 0;
+    top: 0;
+    -webkit-transition: -webkit-transform 0.5s linear;
+    transition: transform 0.5s linear;
+}
+.screen {
+    position: absolute;
+    width: 25%;
+    height: 100%;
+    overflow: hidden;
+}
+.screen.start {
+    left: 0;
+}
+.screen.game {
+    left: 25%;
+}
+.screen.practice {
+    left: 50%;
+}
+body.start .screens {
+    -webkit-transform: translate(0);
+    transform: translate(0);
+}
+body.game .screens {
+    -webkit-transform: translate(-25%);
+    transform: translate(-25%);
+}
+body.practice .screens {
+    -webkit-transform: translate(-50%);
+    transform: translate(-50%);
+}
+/* =buttons
+-----------------------------*/
+.buttons {
+    position: relative;
+    right: 0;
+    left: 0;
+    margin: 0 auto;
+    top: 70%;
+    bottom: 0;
+    width: 100%;
+}
+.button {
+    display: table;
+    text-align: center;
+    position: absolute;
+    min-width: 31%;
+    height: 12%;
+    padding: 2.5% 1%;
+}
+.button+.button {
+    margin-left: -9px;
+    background: radial-gradient(circle 2px at calc(100% - 5px) 5px, rgba(192, 100, 0, 1) 0, rgba(192, 100, 0, .5) 1px, transparent 1px),
+        radial-gradient(circle 2px at calc(100% - 5px) calc(100% - 5px), rgba(192, 100, 0, 1) 0, rgba(192, 100, 0, .5) 1px, transparent 1px);
+}
+.button+.button+.button {
+    margin-left: -18px;
+}
+.button:after {
+    content: "";
+    position: absolute;
+    left: 5px;
+    top: 5px;
+    width: calc(100% - 11px);
+    height: calc(100% - 11px);
+    border-color: rgba(192, 100, 0, 0.2);
+    border-style: solid;
+    border-width: 1px 0;
+}
+.button>div {
+    font-size: 4.2rem;
+    font-family: norwester,lato-light, sans-serif;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    display: table-cell;
+    line-height: 1.5;
+    vertical-align: middle;
+    border-radius: 1rem;
+    background-color: rgba(192, 100, 0, 0.05);
+    color: rgba(192, 100, 0, 1);
+}
+.button.empty {
+    width: calc(32% + 18px);
+    background: radial-gradient(circle 2px at 5px 5px, rgba(255, 255, 255, .5) 0, rgba(255, 255, 255, .2) 1px, transparent 1px),
+        radial-gradient(circle 2px at calc(100% - 5px) 5px, rgba(192, 100, 0, 1) 0, rgba(192, 100, 0, .5) 1px, transparent 1px),
+        radial-gradient(circle 2px at 5px calc(100% - 5px), rgba(255, 255, 255, .5) 0, rgba(255, 255, 255, .2) 1px, transparent 1px),
+        radial-gradient(circle 2px at calc(100% - 5px) calc(100% - 5px), rgba(192, 100, 0, 1) 0, rgba(192, 100, 0, .5) 1px, transparent 1px);
+}
+.button.empty {
+    left: 0;
+    text-transform: none;
+}
+.button.empty>div {
+    border-color: transparent;
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+}
+.button.empty:after {
+    background: radial-gradient(circle 12rem at 50% 50%, rgba(255, 255, 255, 0.05) 3px, transparent);
+    border-color: rgba(255, 255, 255, 0.05);
+}
+.button.game {
+    left: calc(34% + 18px);
+}
+.button.practice {
+    left: calc(67% + 18px);
+}
+/* =back button
+-----------------------------*/
+.back {
+    position: absolute;
+    top: 3%;
+    left: 2.2%;
+    width: 12rem;
+    height: 5.5rem;
+}
+.back:after {
+    position: absolute;
+    left: 0;
+    top: 0;
+    color: rgba(192, 100, 0, 1);
+    background-color: rgba(192, 100, 0, .05);
+    border: 1px solid rgba(192, 100, 0, .1);
+    content: "\e00d";
+    text-align: center;
+    font-family: typicons, sans-serif;
+    font-size: 5rem;
+    line-height: 5rem;
+    border-radius: 1rem;
+    width: 100%;
+    height: 100%;
+}
+.back.active:after {
+    background-color: rgba(192, 100, 0, .1);
+    border: 1px solid rgba(192, 100, 0, .3);
+}
+/* =game screen
+-----------------------------*/
+.game .timer {
+    font-family: lato-hairline, sans-serif;
+    position: absolute;
+    font-size: 4.8rem;
+    right: 2.2%;
+    top: 4%;
+    color: rgb(81, 255, 254);
+}
+.game .progress {
+    background-color: rgba(81, 255, 254, 0.1);
+    height: 1px;
+    position: absolute;
+    width: 100%;
+    top: 15%;
+}
+.game .progress .current {
+    height: 1px;
+    width: 41%;
+    background-color: rgba(81, 255, 254, .7);
+}
+.game .progress .dot {
+    position: absolute;
+    height: 12px;
+    width: 12px;
+    left: 41%;
+    margin-top: -7px;
+    margin-left: -7px;
+    border-radius: 50%;
+    background: radial-gradient(circle at center, rgba(81, 255, 254, .7), rgba(81, 255, 254, .7) 20%, rgba(81, 255, 254, 0.2) 21%, rgba(81, 255, 254, 0.2) 100%);
+}
+.game .target {
+    font-size: 4.8rem;
+    text-align: center;
+    padding: 0 10%;
+    width: 80%;
+    position: absolute;
+    top: 20%;
+    transition: opacity 0.3s linear;
+}
+.game .target.hide {
+    opacity: 0;
+}
+/* =photo
+-----------------------------*/
+.game .photo {
+	width: 300px;
+	height: 300px;
+}
+/* =score
+-----------------------------*/
+.game .score {
+    position: absolute;
+    top: 45%;
+    width: 30%;
+    left: 35%;
+    text-align: center;
+}
+.game .score>div {
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+.game .score .value {
+	position: absolute;
+	left: 0;
+	right: 0;
+    font-family: lato-hairline, sans-serif;
+    font-size: 11.5rem;
+}
+.game .score .label {
+    font-family: lato-light, sans-serif;
+    font-size: 1.8rem;
+    position: absolute;
+    left: 0;
+    right: 0;
+    display: none;
+}
+/* =hits
+-----------------------------*/
+.game .score .hits {
+    top: 0;
+}
+.game .score .hits .label {
+    top: 0;
+}
+.game .score .hits .value {
+    color: rgb(81, 255, 254);
+    top: 1.4rem;
+}
+/* =misses
+-----------------------------*/
+.game .score .misses {
+    top: 14rem;
+}
+.game .score .misses .value {
+    font-size: 6rem;
+    color: rgb(255, 81, 81);
+}
+.game .score .misses .label {
+    top: 7.5rem;
+}
+/* =answers
+-----------------------------*/
+.game ul.answers {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    bottom: 9.6%;
+    height: 60%;
+    width: 100%;
+}
+.game ul.answers>li {
+    width: 33%;
+    height: 28%;
+    display: table;
+    text-align: center;
+    position: absolute;
+    font-size: 2.4rem;
+    -webkit-transition: opacity .3s ease;
+    transition: opacity .3s ease;
+}
+.game ul.answers.hide>li,
+.game ul.answers.learningMode>li:not(.correct) {
+    opacity: 0;
+}
+.game ul.answers li:nth-child(-n+3) {
+    left: 2.2%;
+}
+.game ul.answers li:nth-child(n+4) {
+    right: 2.2%;
+}
+.game ul.answers li:nth-child(1),
+.game ul.answers li:nth-child(4) {
+    bottom: 68.6%;
+}
+.game ul.answers li:nth-child(2),
+.game ul.answers li:nth-child(5) {
+    bottom: 34.3%;
+}
+.game ul.answers li:nth-child(3),
+.game ul.answers li:nth-child(6) {
+    bottom: 0;
+}
+.game ul.answers>li>div {
+    color: #fff;
+    display: table-cell;
+    vertical-align: middle;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    background-color: rgba(255, 255, 255, 0.02);
+    border-radius: 11px;
+}
+.game ul.answers>li.correct.active>div,
+.game ul.answers.learningMode>li.correct>div {
+    border: 1px solid rgba(81, 255, 254, 0.2);
+    background-color: rgba(81, 255, 254, 0.07);
+    color: rgb(81, 255, 254);
+}
+.game ul.answers>li.wrong.active>div {
+    border: 1px solid rgba(255, 81, 81, 0.2);
+    background-color: rgba(255, 81, 81, 0.07);
+    color: rgb(255, 81, 81);
+}
+/* =practice
+-----------------------------*/
+body.practice .screen.practice {
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+}
+.practice .words>ul {
+    list-style: none;
+    position: absolute;
+    top: 20%;
+    font-size: 2.7rem;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+.practice .words li {
+    position: relative;
+    height: 4.6rem;
+    line-height: 4.6rem;
+    width: 100%;
+}
+.practice .words li:nth-child(2n+1) {
+    background-color: rgba(0, 0, 0, 0.08);
+}
+.practice .words .original,
+.practice .words .translated,
+.practice .words .score {
+    position: absolute;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.practice .words .original {
+    width: 25%;
+    left: 2.2%;
+    padding-right: 2.8%;
+}
+.practice .words .translated {
+    left: 30%;
+    width: 40%;
+    padding-right: 2.8%;
+    color: #afafb9;
+    font-size: 2.3rem;
+    line-height: 4.8rem;
+}
+/* =scores
+-----------------------------*/
+.practice .words .score {
+    width: 25%;
+    top: 2.25rem;
+    right: 2.2%;
+    text-indent: -9999rem;
+    padding: 0;
+    line-height: 1px;
+    height: 10px;
+    background: none;
+	display: flex;
+}
+.practice .words .score .bar {
+    width: 20%;
+    margin-right: 5%;
+    border: 1px solid #ff5151;
+    border-color: #9cd9d9 #51fffe #51fffe #9cd9d9;
+    height: 1px;
+    opacity: .8;
+}
+.practice .words .score .bar.wrong {
+    border-color: #ff8585 #ff5151 #ff5151 #ff8585;
+}
+/* =scores
+-----------------------------*/
+@font-face {
+    font-family: 'lato-light';
+    src: url('../fonts/lato-lig.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'lato-hairline';
+    src: url('../fonts/lato-hai.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'norwester';
+    src: url('../fonts/norwester.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'typicons';
+    src: url('../fonts/typicons.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
