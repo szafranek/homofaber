@@ -72,5 +72,6 @@ var Words = window.Words || {};
         Words.loader.loadTerms("./data/homofaber.txt");
         setupScreen();
         setupUserEvents();
+        Words.game.start();
     });
 }());
