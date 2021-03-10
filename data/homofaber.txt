@@ -2,13 +2,19 @@ allerlei - all sorts
 am Zug sein - it's one's turn
 anschnallen - to strap on
 auffielen - to stand out
+aufkrempeln - to roll up
 ausklinken - to release
+auszuknipsen - to switch off
 befürchten - to fear
 behaupten - to assert
+beiläufig - casual
+besinnen - to reflect
+besonnt - sunlit
 betreffend - concerning
 beziehungsweise - respectively, or
 bloß - bare, only
 brüllen - shout, roar
+das Erwachen - awakening
 das Fahrgestell - chassis
 das Gespenst - ghost
 das Hitze - heat
@@ -19,11 +25,13 @@ das Sieb - strainer
 das Staatsgebiet - national territory
 das Tal - valley
 das Totenreich - kindgom of the dead
+das Zeitvertreib - pastime
 der Aufenthalt - stay
 der Ausfall - failure, cancellation
 der Donner - thunder
 der Dunst - haze
 der Hafen - port, dock
+der Irrsinn - madness
 der Kiesel - pebble
 der Laie - the laymen
 der Pneu - tyre
@@ -41,38 +49,51 @@ die Ausrede - excuse
 die Blässe - paleness
 die Bö - gust, squall
 die Bügelfalten - crease
+die Distel - thistle
 die Eidechse - lizard
+die Einsilbigkeit - to reizen
 die Faust - fist
 die Geste - gesture
 die Glut - ember, ash, heat
 die Knarre - rattle
 die Mühe - trouble
+die Revolte - revolt
 die Sinflut - flood
 die Spur - trace, track
+die Stimmung - mood
 die Tinte - ink
 die Tragfläche - wing
 die Weile - while
+die Wolldecke - blanket
 dreckig - filthy
+drehen - to turn
 eben - flat, even, just, precisely
 ein Affenschwein haben - to have luck
 einheimisch - native
 einig - agreed
 eintreten - to enter
 entschließen - to make up one's mind
+erbrechen - to vomit
 erklärlich - understandable
 errechenbar - calculable
+errechnen - to calculate
+erschrecken - to be startled
+erwähnen - to mention
 falten - to fold
 fassen - to grab
 fetzen - to tear
 flimmern - to flicker
 flitzen - to shoot, to dart
+flüstern - to whisper
 geradezu - almost, direct, blunt
 günsting - favorable
 hallen - to echo
+hocken - to crouch
 irgendein - some
 kaum - barely
 keinesweg - by no means
 kippen - to tilt, to tip
+klagen - to complain
 kühn - bold, brave
 lediglich - only, merely
 neuerdings - recently
@@ -87,11 +108,15 @@ ringsum - all around
 rutschen - to slide, to slip
 sacken - to plummet
 sausen - to whistle
+scheiden - to divorce
 scheppern - to clank
 schlottern - to shiver, to shiver
+schonen - to spare, to protect
+schräg - slanted, tilted
 schwindlig - dizzy
 schwitzen - to sweat
 senkrecht - vertical
+sich begnügen - to content oneself
 soeben - just
 sogar - even
 sogleich - immediately
@@ -103,7 +128,9 @@ stumm - wordless, silent
 unhöflich - impolite
 unvermeidlich - unavoidable
 vernünftig - sensible
+verrutschen - to slip
 verschoben - to postpone
+versehentlich - inadvertent
 verstecken - to hide
 verstummen - to go silent
 vollkommen - perfectly
@@ -111,9 +138,12 @@ voran - ahead
 vorder - front
 vorläufig - temporary
 wackeln - wobble
+wagen - to risk
 weigern - to refuse
 widerlich - repulsive
+wieso - why
 wippen - to bob up and down
 zucken - to twitch, to jerk
+zünden - to ignite
 üblich - usual
 übrigens - by the way
