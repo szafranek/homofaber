@@ -30,11 +30,13 @@ der Aufenthalt - stay
 der Ausfall - failure, cancellation
 der Donner - thunder
 der Dunst - haze
+der Durchschlag - carbon copy
 der Hafen - port, dock
 der Irrsinn - madness
 der Kiesel - pebble
 der Laie - the laymen
 der Pneu - tyre
+der Rohling – brute
 der Schatten - shadow
 der Scheinwerfer - spotlight
 der Schimmer - shimmer
@@ -42,8 +44,10 @@ der Stoß - punch, kick, blow
 der Sturz - fall, accident
 der Sumpf - swamp, marsh
 der Vortrag - lecture
+der Vorwurf - reproach
 der Zufall - chance, coincidence
 der Ärmel - sleeve
+die Anschaulichkeit - clarity
 die Anweisung - instruction
 die Ausrede - excuse
 die Blässe - paleness
@@ -57,6 +61,7 @@ die Geste - gesture
 die Glut - ember, ash, heat
 die Knarre - rattle
 die Mühe - trouble
+die Pfeife - pipe
 die Revolte - revolt
 die Sinflut - flood
 die Spur - trace, track
@@ -65,8 +70,10 @@ die Tinte - ink
 die Tragfläche - wing
 die Weile - while
 die Wolldecke - blanket
+die Zustellung - delivery, submission
 dreckig - filthy
 drehen - to turn
+durchblicken - to hint
 eben - flat, even, just, precisely
 ein Affenschwein haben - to have luck
 einheimisch - native
@@ -94,6 +101,7 @@ kaum - barely
 keinesweg - by no means
 kippen - to tilt, to tip
 klagen - to complain
+klopfen - to knock
 kühn - bold, brave
 lediglich - only, merely
 neuerdings - recently
@@ -107,6 +115,7 @@ rieseln - to trickle
 ringsum - all around
 rutschen - to slide, to slip
 sacken - to plummet
+satt - full, fed up with
 sausen - to whistle
 scheiden - to divorce
 scheppern - to clank
@@ -115,6 +124,7 @@ schonen - to spare, to protect
 schräg - slanted, tilted
 schwindlig - dizzy
 schwitzen - to sweat
+sehnen - to long for
 senkrecht - vertical
 sich begnügen - to content oneself
 soeben - just
@@ -125,6 +135,7 @@ starr - stiff
 stauen - to marvel
 staunen - to be amazed
 stumm - wordless, silent
+umgekehrt - vice versa
 unhöflich - impolite
 unvermeidlich - unavoidable
 vernünftig - sensible
