@@ -1,3 +1,4 @@
+abwehren - to repulse
 allerlei - all sorts
 am Zug sein - it's one's turn
 anschnallen - to strap on
@@ -14,10 +15,13 @@ betreffend - concerning
 beziehungsweise - respectively, or
 bloß - bare, only
 brüllen - shout, roar
+das Dickicht – thicket
 das Erwachen - awakening
 das Fahrgestell - chassis
 das Gespenst - ghost
+das Gewitter - storm
 das Hitze - heat
+das Händeschütteln - handshake
 das Jenseits - beyond
 das Rudel - horde
 das Schneetreiben - blowing snow
@@ -25,12 +29,14 @@ das Sieb - strainer
 das Staatsgebiet - national territory
 das Tal - valley
 das Totenreich - kindgom of the dead
+das Trittbrett - running board
 das Zeitvertreib - pastime
 der Aufenthalt - stay
 der Ausfall - failure, cancellation
 der Donner - thunder
 der Dunst - haze
 der Durchschlag - carbon copy
+der Entschluss - decision
 der Hafen - port, dock
 der Irrsinn - madness
 der Kiesel - pebble
@@ -42,7 +48,9 @@ der Scheinwerfer - spotlight
 der Schimmer - shimmer
 der Stoß - punch, kick, blow
 der Sturz - fall, accident
+der Sumpf - marsh
 der Sumpf - swamp, marsh
+der Umweg - detour
 der Vortrag - lecture
 der Vorwurf - reproach
 der Zufall - chance, coincidence
@@ -53,18 +61,22 @@ die Ausrede - excuse
 die Blässe - paleness
 die Bö - gust, squall
 die Bügelfalten - crease
+die Dienstreise - business trip
 die Distel - thistle
 die Eidechse - lizard
 die Einsilbigkeit - to reizen
 die Faust - fist
+die Finsternis - darkness
 die Geste - gesture
 die Glut - ember, ash, heat
 die Knarre - rattle
+die Muscheln - mussel
 die Mühe - trouble
 die Pfeife - pipe
 die Revolte - revolt
 die Sinflut - flood
 die Spur - trace, track
+die Stille – quiet
 die Stimmung - mood
 die Tinte - ink
 die Tragfläche - wing
@@ -79,20 +91,26 @@ ein Affenschwein haben - to have luck
 einheimisch - native
 einig - agreed
 eintreten - to enter
+empfangen - to receive
 entschließen - to make up one's mind
 erbrechen - to vomit
 erklärlich - understandable
 errechenbar - calculable
 errechnen - to calculate
 erschrecken - to be startled
+erschöpft - exhausted
 erwähnen - to mention
 falten - to fold
 fassen - to grab
 fetzen - to tear
 flimmern - to flicker
 flitzen - to shoot, to dart
+flott - smart, quick, lively
 flüstern - to whisper
 geradezu - almost, direct, blunt
+gewissenhaft - conscientious
+greifbar - within reach
+gähnen - to yawn
 günsting - favorable
 hallen - to echo
 hocken - to crouch
@@ -101,6 +119,7 @@ kaum - barely
 keinesweg - by no means
 kippen - to tilt, to tip
 klagen - to complain
+klebrig - sticky
 klopfen - to knock
 kühn - bold, brave
 lediglich - only, merely
@@ -109,6 +128,7 @@ obschon - although
 offenbar - obvious
 pfeifen - to whistle
 plumpsen - splash
+rauschen – drunkeness
 reglos - motionless
 reiben - to rub
 rieseln - to trickle
@@ -119,6 +139,7 @@ satt - full, fed up with
 sausen - to whistle
 scheiden - to divorce
 scheppern - to clank
+schleimig - slimy
 schlottern - to shiver, to shiver
 schonen - to spare, to protect
 schräg - slanted, tilted
@@ -130,12 +151,16 @@ sich begnügen - to content oneself
 soeben - just
 sogar - even
 sogleich - immediately
+sonderbar - strange, odd
 spüren - to sense, to feel
 starr - stiff
 stauen - to marvel
 staunen - to be amazed
 stumm - wordless, silent
+topfeben - flat as a pan
+tuten - to toot
 umgekehrt - vice versa
+unfähig - incapable
 unhöflich - impolite
 unvermeidlich - unavoidable
 vernünftig - sensible
@@ -144,6 +169,7 @@ verschoben - to postpone
 versehentlich - inadvertent
 verstecken - to hide
 verstummen - to go silent
+verwesen - to decompose
 vollkommen - perfectly
 voran - ahead
 vorder - front
@@ -154,20 +180,9 @@ weigern - to refuse
 widerlich - repulsive
 wieso - why
 wippen - to bob up and down
+zischeln - to hiss, to whistle angirly
 zucken - to twitch, to jerk
 zünden - to ignite
+äußerst - extremely
 üblich - usual
 übrigens - by the way
-abwehren - to repulse
-zischeln - to hiss, to whistle angirly
-der Entschluss - decision
-die Dienstreise - business trip
-der Umweg - detour
-das Händeschütteln - handshake
-äußerst - extremely
-gewissenhaft - conscientious
-flott - smart, quick, lively
-empfangen - to receive
-schleimig - slimy
-klebrig - sticky
-verwesen - to decompose
