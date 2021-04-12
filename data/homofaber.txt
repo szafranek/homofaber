@@ -7,17 +7,22 @@ aufkrempeln - to roll up
 ausklinken - to release
 auszuknipsen - to switch off
 befürchten - to fear
+begaffen - to stare
 behaupten - to assert
 beiläufig - casual
 besinnen - to reflect
 besonnt - sunlit
+bestehen - to exist
 betreffend - concerning
+betteln - to beg
 beziehungsweise - respectively, or
 bloß - bare, only
 brüllen - shout, roar
 das Dickicht – thicket
 das Erwachen - awakening
 das Fahrgestell - chassis
+das Gefieder - plumage
+das Gerücht - rumor
 das Gespenst - ghost
 das Gewitter - storm
 das Hitze - heat
@@ -40,6 +45,7 @@ der Entschluss - decision
 der Hafen - port, dock
 der Irrsinn - madness
 der Kiesel - pebble
+der Kranke - patient
 der Laie - the laymen
 der Pneu - tyre
 der Rohling – brute
@@ -53,6 +59,7 @@ der Sumpf - swamp, marsh
 der Umweg - detour
 der Vortrag - lecture
 der Vorwurf - reproach
+der Wirt - landlord
 der Zufall - chance, coincidence
 der Ärmel - sleeve
 die Anschaulichkeit - clarity
@@ -70,6 +77,7 @@ die Finsternis - darkness
 die Geste - gesture
 die Glut - ember, ash, heat
 die Knarre - rattle
+die Masern - measles
 die Muscheln - mussel
 die Mühe - trouble
 die Pfeife - pipe
@@ -85,9 +93,12 @@ die Wolldecke - blanket
 die Zustellung - delivery, submission
 dreckig - filthy
 drehen - to turn
+dunstig - hazy
 durchblicken - to hint
 eben - flat, even, just, precisely
+ebenfalls - likewise
 ein Affenschwein haben - to have luck
+einerlei - all the same
 einheimisch - native
 einig - agreed
 eintreten - to enter
@@ -100,8 +111,10 @@ errechnen - to calculate
 erschrecken - to be startled
 erschöpft - exhausted
 erwähnen - to mention
+erzeugen - to produce
 falten - to fold
 fassen - to grab
+faul - lazy
 fetzen - to tear
 flimmern - to flicker
 flitzen - to shoot, to dart
@@ -180,6 +193,7 @@ weigern - to refuse
 widerlich - repulsive
 wieso - why
 wippen - to bob up and down
+wütend - angry
 zischeln - to hiss, to whistle angirly
 zucken - to twitch, to jerk
 zünden - to ignite
