@@ -18,12 +18,14 @@ betteln - to beg
 beziehungsweise - respectively, or
 bloß - bare, only
 brüllen - shout, roar
+das Achselzucken - shrug
 das Dickicht – thicket
 das Erwachen - awakening
 das Fahrgestell - chassis
 das Gefieder - plumage
 das Gerücht - rumor
 das Gespenst - ghost
+das Gewehr - rifle
 das Gewitter - storm
 das Hitze - heat
 das Händeschütteln - handshake
@@ -41,6 +43,7 @@ der Ausfall - failure, cancellation
 der Donner - thunder
 der Dunst - haze
 der Durchschlag - carbon copy
+der Ehebruch - adultry
 der Entschluss - decision
 der Hafen - port, dock
 der Irrsinn - madness
@@ -52,7 +55,9 @@ der Rohling – brute
 der Schatten - shadow
 der Scheinwerfer - spotlight
 der Schimmer - shimmer
+der Schopf - crest
 der Stoß - punch, kick, blow
+der Strohhut - straw hut
 der Sturz - fall, accident
 der Sumpf - marsh
 der Sumpf - swamp, marsh
@@ -66,6 +71,7 @@ die Anschaulichkeit - clarity
 die Anweisung - instruction
 die Ausrede - excuse
 die Blässe - paleness
+die Brunst - rut, heat
 die Bö - gust, squall
 die Bügelfalten - crease
 die Dienstreise - business trip
@@ -76,12 +82,14 @@ die Faust - fist
 die Finsternis - darkness
 die Geste - gesture
 die Glut - ember, ash, heat
+die Herkunft - origin
 die Knarre - rattle
 die Masern - measles
 die Muscheln - mussel
 die Mühe - trouble
 die Pfeife - pipe
 die Revolte - revolt
+die Schauergeschichte - horror story
 die Sinflut - flood
 die Spur - trace, track
 die Stille – quiet
@@ -134,8 +142,11 @@ kippen - to tilt, to tip
 klagen - to complain
 klebrig - sticky
 klopfen - to knock
+krumm - to bend
 kühn - bold, brave
 lediglich - only, merely
+moderig - musty
+moosig - mossy
 neuerdings - recently
 obschon - although
 offenbar - obvious
@@ -169,8 +180,10 @@ spüren - to sense, to feel
 starr - stiff
 stauen - to marvel
 staunen - to be amazed
+steil - steep
 stumm - wordless, silent
 topfeben - flat as a pan
+trillern - to warble
 tuten - to toot
 umgekehrt - vice versa
 unfähig - incapable
@@ -194,6 +207,7 @@ widerlich - repulsive
 wieso - why
 wippen - to bob up and down
 wütend - angry
+zerknittern - to crease, to crumble
 zischeln - to hiss, to whistle angirly
 zucken - to twitch, to jerk
 zünden - to ignite
