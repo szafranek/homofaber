@@ -1,9 +1,12 @@
+abgesehen - apart from
 abwehren - to repulse
 allerlei - all sorts
+altertümlich - ancient
 am Zug sein - it's one's turn
 anschnallen - to strap on
 auffielen - to stand out
 aufkrempeln - to roll up
+aufschiessen - to leap
 ausklinken - to release
 auszuknipsen - to switch off
 befürchten - to fear
@@ -23,6 +26,7 @@ das Dickicht – thicket
 das Erwachen - awakening
 das Fahrgestell - chassis
 das Gefieder - plumage
+das Geklimper - plunking
 das Gerücht - rumor
 das Gespenst - ghost
 das Gewehr - rifle
@@ -34,6 +38,7 @@ das Rudel - horde
 das Schneetreiben - blowing snow
 das Sieb - strainer
 das Staatsgebiet - national territory
+das Staunen - astonishment
 das Tal - valley
 das Totenreich - kindgom of the dead
 das Trittbrett - running board
@@ -46,12 +51,14 @@ der Durchschlag - carbon copy
 der Ehebruch - adultry
 der Entschluss - decision
 der Hafen - port, dock
+der Hang - tendency
 der Irrsinn - madness
 der Kiesel - pebble
 der Kranke - patient
 der Laie - the laymen
 der Pneu - tyre
 der Rohling – brute
+der Schalter - counter
 der Schatten - shadow
 der Scheinwerfer - spotlight
 der Schimmer - shimmer
@@ -61,7 +68,10 @@ der Strohhut - straw hut
 der Sturz - fall, accident
 der Sumpf - marsh
 der Sumpf - swamp, marsh
+der Säugling - infant
+der Umstand - fact, detail
 der Umweg - detour
+der Verschleiß - wear, consumption
 der Vortrag - lecture
 der Vorwurf - reproach
 der Wirt - landlord
@@ -70,31 +80,39 @@ der Ärmel - sleeve
 die Anschaulichkeit - clarity
 die Anweisung - instruction
 die Ausrede - excuse
+die Auswanderung - emigration
+die Behauptung - assertion
 die Blässe - paleness
 die Brunst - rut, heat
+die Bude - hut
 die Bö - gust, squall
 die Bügelfalten - crease
 die Dienstreise - business trip
 die Distel - thistle
 die Eidechse - lizard
 die Einsilbigkeit - to reizen
+die Empörung - outrage
 die Faust - fist
 die Finsternis - darkness
 die Geste - gesture
 die Glut - ember, ash, heat
 die Herkunft - origin
 die Knarre - rattle
+die Kunstfee - fairy
 die Masern - measles
 die Muscheln - mussel
 die Mühe - trouble
+die Offenbarung - epiphany
 die Pfeife - pipe
 die Revolte - revolt
 die Schauergeschichte - horror story
+die Schwärmerin - dreamer
 die Sinflut - flood
 die Spur - trace, track
 die Stille – quiet
 die Stimmung - mood
 die Tinte - ink
+die Tracht - traditional costume
 die Tragfläche - wing
 die Weile - while
 die Wolldecke - blanket
@@ -118,6 +136,7 @@ errechenbar - calculable
 errechnen - to calculate
 erschrecken - to be startled
 erschöpft - exhausted
+erwischen - to catch
 erwähnen - to mention
 erzeugen - to produce
 falten - to fold
@@ -135,6 +154,7 @@ gähnen - to yawn
 günsting - favorable
 hallen - to echo
 hocken - to crouch
+irgend - any
 irgendein - some
 kaum - barely
 keinesweg - by no means
@@ -142,12 +162,15 @@ kippen - to tilt, to tip
 klagen - to complain
 klebrig - sticky
 klopfen - to knock
+kreidebleich - pale as chalk
 krumm - to bend
 kühn - bold, brave
+laut + Gen/Dat - according to
 lediglich - only, merely
 moderig - musty
 moosig - mossy
 neuerdings - recently
+nichtsdestoweniger - nonetheless
 obschon - although
 offenbar - obvious
 pfeifen - to whistle
@@ -158,6 +181,7 @@ reiben - to rub
 rieseln - to trickle
 ringsum - all around
 rutschen - to slide, to slip
+sachliche - objective
 sacken - to plummet
 satt - full, fed up with
 sausen - to whistle
@@ -176,6 +200,7 @@ soeben - just
 sogar - even
 sogleich - immediately
 sonderbar - strange, odd
+sondergleichen - unparalleled
 spüren - to sense, to feel
 starr - stiff
 stauen - to marvel
@@ -195,11 +220,13 @@ verschoben - to postpone
 versehentlich - inadvertent
 verstecken - to hide
 verstummen - to go silent
+vertragen - tolerate
 verwesen - to decompose
 vollkommen - perfectly
 voran - ahead
 vorder - front
 vorläufig - temporary
+vorweisen - to produce
 wackeln - wobble
 wagen - to risk
 weigern - to refuse
@@ -207,10 +234,12 @@ widerlich - repulsive
 wieso - why
 wippen - to bob up and down
 wütend - angry
+zahllose - countless
 zerknittern - to crease, to crumble
 zischeln - to hiss, to whistle angirly
 zucken - to twitch, to jerk
 zünden - to ignite
 äußerst - extremely
+überholen - to overtake
 üblich - usual
 übrigens - by the way
