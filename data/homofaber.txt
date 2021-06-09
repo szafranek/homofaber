@@ -1,21 +1,27 @@
 abgesehen - apart from
+abstimmen - to vote
 abwehren - to repulse
 allerlei - all sorts
 altertümlich - ancient
 am Zug sein - it's one's turn
 anschnallen - to strap on
 auffielen - to stand out
+aufhören - to stop, to end
 aufkrempeln - to roll up
 aufschiessen - to leap
 ausklinken - to release
+auszuhalten - to endure
 auszuknipsen - to switch off
+ạbsehen - to leave aside, to ignore
 befürchten - to fear
 begaffen - to stare
 behaupten - to assert
 beiläufig - casual
+beschimpfen - to swear
 besinnen - to reflect
 besonnt - sunlit
 bestehen - to exist
+bestreiten - to contenst, to deny
 betreffend - concerning
 betteln - to beg
 beziehungsweise - respectively, or
@@ -25,16 +31,19 @@ das Achselzucken - shrug
 das Dickicht – thicket
 das Erwachen - awakening
 das Fahrgestell - chassis
+das Farnkraut - fern
 das Gefieder - plumage
 das Geklimper - plunking
 das Gerücht - rumor
 das Gespenst - ghost
 das Gewehr - rifle
+das Gewimmel - throng, mass
 das Gewitter - storm
 das Hitze - heat
 das Händeschütteln - handshake
 das Jenseits - beyond
 das Rudel - horde
+das scheppern
 das Schneetreiben - blowing snow
 das Sieb - strainer
 das Staatsgebiet - national territory
@@ -43,6 +52,9 @@ das Tal - valley
 das Totenreich - kindgom of the dead
 das Trittbrett - running board
 das Zeitvertreib - pastime
+das Zeug - stuff
+der Aasgeier - vulture
+der After - anus
 der Aufenthalt - stay
 der Ausfall - failure, cancellation
 der Donner - thunder
@@ -50,14 +62,18 @@ der Dunst - haze
 der Durchschlag - carbon copy
 der Ehebruch - adultry
 der Entschluss - decision
+der Esel - donkey; ass, idiot
 der Hafen - port, dock
 der Hang - tendency
 der Irrsinn - madness
 der Kiesel - pebble
+der Koller - rage
 der Kranke - patient
 der Laie - the laymen
+der Molch - newt
 der Pneu - tyre
 der Rohling – brute
+der Rückzug - retreat
 der Schalter - counter
 der Schatten - shadow
 der Scheinwerfer - spotlight
@@ -72,9 +88,12 @@ der Säugling - infant
 der Umstand - fact, detail
 der Umweg - detour
 der Verschleiß - wear, consumption
+der Verwaltungsrat - board of directors
 der Vortrag - lecture
 der Vorwurf - reproach
+der Wedel - palm
 der Wirt - landlord
+der Zopilot - black vulture
 der Zufall - chance, coincidence
 der Ärmel - sleeve
 die Anschaulichkeit - clarity
@@ -94,9 +113,12 @@ die Einsilbigkeit - to reizen
 die Empörung - outrage
 die Faust - fist
 die Finsternis - darkness
+die Flechten - lichen
+die Fährte - trail
 die Geste - gesture
 die Glut - ember, ash, heat
 die Herkunft - origin
+die Hupe - horn
 die Knarre - rattle
 die Kunstfee - fairy
 die Masern - measles
@@ -104,18 +126,26 @@ die Muscheln - mussel
 die Mühe - trouble
 die Offenbarung - epiphany
 die Pfeife - pipe
+die Pfütze - puddle
 die Revolte - revolt
+die Rille - groove
 die Schauergeschichte - horror story
 die Schwärmerin - dreamer
 die Sinflut - flood
 die Spur - trace, track
+die Spur - track
 die Stille – quiet
 die Stimmung - mood
 die Tinte - ink
 die Tracht - traditional costume
 die Tragfläche - wing
+die Tätigkeit - job
+die Vernunft - reason
+die Verwesung - decomposition
+die Watte - cotton wool
 die Weile - while
 die Wolldecke - blanket
+die Wut - fury
 die Zustellung - delivery, submission
 dreckig - filthy
 drehen - to turn
@@ -128,8 +158,10 @@ einerlei - all the same
 einheimisch - native
 einig - agreed
 eintreten - to enter
+ekeln - be disgusted
 empfangen - to receive
 entschließen - to make up one's mind
+entschlossen - determined
 erbrechen - to vomit
 erklärlich - understandable
 errechenbar - calculable
@@ -148,12 +180,14 @@ flitzen - to shoot, to dart
 flott - smart, quick, lively
 flüstern - to whisper
 geradezu - almost, direct, blunt
+Geratewohl - without direction, randomly
 gewissenhaft - conscientious
 greifbar - within reach
 gähnen - to yawn
 günsting - favorable
 hallen - to echo
 hocken - to crouch
+huschen - to slip, to to dart
 irgend - any
 irgendein - some
 kaum - barely
@@ -173,6 +207,7 @@ neuerdings - recently
 nichtsdestoweniger - nonetheless
 obschon - although
 offenbar - obvious
+opfern - to sacrifice
 pfeifen - to whistle
 plumpsen - splash
 rauschen – drunkeness
@@ -180,6 +215,7 @@ reglos - motionless
 reiben - to rub
 rieseln - to trickle
 ringsum - all around
+rostig - rusty
 rutschen - to slide, to slip
 sachliche - objective
 sacken - to plummet
@@ -187,10 +223,14 @@ satt - full, fed up with
 sausen - to whistle
 scheiden - to divorce
 scheppern - to clank
+scheußlich - dreadful, awful
 schleimig - slimy
 schlottern - to shiver, to shiver
+schlüpfrig - slippery
+schnurgerade - dead straight
 schonen - to spare, to protect
 schräg - slanted, tilted
+schwatzen - to chat
 schwindlig - dizzy
 schwitzen - to sweat
 sehnen - to long for
@@ -201,14 +241,19 @@ sogar - even
 sogleich - immediately
 sonderbar - strange, odd
 sondergleichen - unparalleled
+sonst - otherwise
+sprühen - to spray
 spüren - to sense, to feel
+stapfen - trump
 starr - stiff
 stauen - to marvel
 staunen - to be amazed
 steil - steep
+stoßen - kick, punch
 stumm - wordless, silent
 topfeben - flat as a pan
 trillern - to warble
+trübe - murky
 tuten - to toot
 umgekehrt - vice versa
 unfähig - incapable
@@ -232,44 +277,18 @@ wagen - to risk
 weigern - to refuse
 widerlich - repulsive
 wieso - why
+wimmeln - to swarm
 wippen - to bob up and down
 wütend - angry
 zahllose - countless
 zerknittern - to crease, to crumble
+zerren - to drag
 zischeln - to hiss, to whistle angirly
 zucken - to twitch, to jerk
 zünden - to ignite
 äußerst - extremely
 überholen - to overtake
-üblich - usual
-übrigens - by the way
-das Farnkraut - fern
-der Sumpf - marsh
-das scheppern
-der Aasgeier - vulture
-die Hupe - horn
-der Koller - rage
 überwinden - overcome
-das Zeug - stuff
-die Rille - groove
-die Vernunft - reason
-schwatzen - to chat
-der Vortrag - lecture
-der Rückzug - retreat
-die Tätigkeit - job
-bestreiten - to contenst, to deny
-die Fährte - trail
-Geratewohl - without direction, randomly
-der Molch - newt
-die Pfütze - puddle
-das Gewimmel - throng, mass
-die Verwesung - decomposition
-schnurgerade - dead straight
-trübe - murky
-schlüpfrig - slippery
-wimmeln - to swarm
-rostig - rusty
-ekeln - be disgusted
-dunstig - hazy
-abstimmen - to vote
-beschimpfen - to swear
+üblich - usual
+übrig - remaining
+übrigens - by the way
