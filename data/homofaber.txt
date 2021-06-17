@@ -1,4 +1,5 @@
 abgesehen - apart from
+abschleulich - disgusting
 abstimmen - to vote
 abwehren - to repulse
 allerlei - all sorts
@@ -15,6 +16,7 @@ auszuknipsen - to switch off
 ạbsehen - to leave aside, to ignore
 befürchten - to fear
 begaffen - to stare
+begreifen - to understand
 behaupten - to assert
 beiläufig - casual
 beschimpfen - to swear
@@ -96,6 +98,8 @@ der Wirt - landlord
 der Zopilot - black vulture
 der Zufall - chance, coincidence
 der Ärmel - sleeve
+die Abreise - departure
+die Achsel - shoulder, armpit
 die Anschaulichkeit - clarity
 die Anweisung - instruction
 die Ausrede - excuse
@@ -133,7 +137,6 @@ die Schauergeschichte - horror story
 die Schwärmerin - dreamer
 die Sinflut - flood
 die Spur - trace, track
-die Spur - track
 die Stille – quiet
 die Stimmung - mood
 die Tinte - ink
@@ -179,6 +182,8 @@ flimmern - to flicker
 flitzen - to shoot, to dart
 flott - smart, quick, lively
 flüstern - to whisper
+gelegentlich - occassional
+gemäß - according to
 geradezu - almost, direct, blunt
 Geratewohl - without direction, randomly
 gewissenhaft - conscientious
@@ -242,6 +247,7 @@ sogleich - immediately
 sonderbar - strange, odd
 sondergleichen - unparalleled
 sonst - otherwise
+sowenig - as little
 sprühen - to spray
 spüren - to sense, to feel
 stapfen - trump
@@ -259,8 +265,11 @@ umgekehrt - vice versa
 unfähig - incapable
 unhöflich - impolite
 unvermeidlich - unavoidable
+verdrecken - filthy, dirty
+vergeblich - futile
 vernünftig - sensible
 verrutschen - to slip
+verschlammt - muddy
 verschoben - to postpone
 versehentlich - inadvertent
 verstecken - to hide
