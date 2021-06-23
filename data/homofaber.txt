@@ -14,6 +14,7 @@ ausklinken - to release
 auszuhalten - to endure
 auszuknipsen - to switch off
 ạbsehen - to leave aside, to ignore
+bangen - to be anxious
 befürchten - to fear
 begaffen - to stare
 begreifen - to understand
@@ -67,9 +68,11 @@ der Entschluss - decision
 der Esel - donkey; ass, idiot
 der Hafen - port, dock
 der Hang - tendency
+der Hummer - lobster
 der Irrsinn - madness
 der Kiesel - pebble
 der Koller - rage
+der Krach - row
 der Kranke - patient
 der Laie - the laymen
 der Molch - newt
@@ -81,6 +84,7 @@ der Schatten - shadow
 der Scheinwerfer - spotlight
 der Schimmer - shimmer
 der Schopf - crest
+der Schädel - skull
 der Stoß - punch, kick, blow
 der Strohhut - straw hut
 der Sturz - fall, accident
@@ -177,6 +181,7 @@ erzeugen - to produce
 falten - to fold
 fassen - to grab
 faul - lazy
+ferner - furthermore
 fetzen - to tear
 flimmern - to flicker
 flitzen - to shoot, to dart
@@ -215,6 +220,7 @@ offenbar - obvious
 opfern - to sacrifice
 pfeifen - to whistle
 plumpsen - splash
+rasch - quick, rapid
 rauschen – drunkeness
 reglos - motionless
 reiben - to rub
@@ -242,6 +248,7 @@ sehnen - to long for
 senkrecht - vertical
 sich begnügen - to content oneself
 soeben - just
+soeben - just now
 sogar - even
 sogleich - immediately
 sonderbar - strange, odd
@@ -257,6 +264,7 @@ staunen - to be amazed
 steil - steep
 stoßen - kick, punch
 stumm - wordless, silent
+summen - to hum
 topfeben - flat as a pan
 trillern - to warble
 trübe - murky
@@ -264,9 +272,12 @@ tuten - to toot
 umgekehrt - vice versa
 unfähig - incapable
 unhöflich - impolite
+unumgạ̈nglich - necessary
 unvermeidlich - unavoidable
 verdrecken - filthy, dirty
 vergeblich - futile
+verheul - swollen from crying
+vernommen - to question, to examine
 vernünftig - sensible
 verrutschen - to slip
 verschlammt - muddy
@@ -294,6 +305,7 @@ zerknittern - to crease, to crumble
 zerren - to drag
 zischeln - to hiss, to whistle angirly
 zucken - to twitch, to jerk
+zwingen - to force
 zünden - to ignite
 äußerst - extremely
 überholen - to overtake
