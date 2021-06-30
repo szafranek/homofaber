@@ -1,11 +1,13 @@
 abgesehen - apart from
 abschleulich - disgusting
+absehen - to predict
 abstimmen - to vote
 abwehren - to repulse
 allerlei - all sorts
 altertümlich - ancient
 am Zug sein - it's one's turn
 anschnallen - to strap on
+anstoßen - to clink glasses
 auffielen - to stand out
 aufhören - to stop, to end
 aufkrempeln - to roll up
@@ -60,6 +62,7 @@ der Aasgeier - vulture
 der After - anus
 der Aufenthalt - stay
 der Ausfall - failure, cancellation
+der Bub - boy, lad
 der Donner - thunder
 der Dunst - haze
 der Durchschlag - carbon copy
@@ -68,11 +71,16 @@ der Entschluss - decision
 der Esel - donkey; ass, idiot
 der Hafen - port, dock
 der Hang - tendency
+der Hanswurst - clown
+der Hohn - scorn, derison
 der Hummer - lobster
 der Irrsinn - madness
+der Kahn - barge, rowing boat
+der Kamin - fireplace
 der Kiesel - pebble
 der Koller - rage
 der Krach - row
+der Kran - crane
 der Kranke - patient
 der Laie - the laymen
 der Molch - newt
@@ -81,6 +89,7 @@ der Rohling – brute
 der Rückzug - retreat
 der Schalter - counter
 der Schatten - shadow
+der Schaum - froth, foam
 der Scheinwerfer - spotlight
 der Schimmer - shimmer
 der Schopf - crest
@@ -127,6 +136,7 @@ die Geste - gesture
 die Glut - ember, ash, heat
 die Herkunft - origin
 die Hupe - horn
+die Hüfte - hip
 die Knarre - rattle
 die Kunstfee - fairy
 die Masern - measles
@@ -138,6 +148,7 @@ die Pfütze - puddle
 die Revolte - revolt
 die Rille - groove
 die Schauergeschichte - horror story
+die Schläfe - temple
 die Schwärmerin - dreamer
 die Sinflut - flood
 die Spur - trace, track
@@ -147,8 +158,10 @@ die Tinte - ink
 die Tracht - traditional costume
 die Tragfläche - wing
 die Tätigkeit - job
+die Unkenntlichkeit - unrecognizable state
 die Vernunft - reason
 die Verwesung - decomposition
+die Wahrsagerei - fortune telling
 die Watte - cotton wool
 die Weile - while
 die Wolldecke - blanket
@@ -160,6 +173,7 @@ dunstig - hazy
 durchblicken - to hint
 eben - flat, even, just, precisely
 ebenfalls - likewise
+eilen - to hurry
 ein Affenschwein haben - to have luck
 einerlei - all the same
 einheimisch - native
@@ -169,6 +183,7 @@ ekeln - be disgusted
 empfangen - to receive
 entschließen - to make up one's mind
 entschlossen - determined
+entzückend - delightful
 erbrechen - to vomit
 erklärlich - understandable
 errechenbar - calculable
@@ -210,6 +225,7 @@ kreidebleich - pale as chalk
 krumm - to bend
 kühn - bold, brave
 laut + Gen/Dat - according to
+lauwarm - lukewarm
 lediglich - only, merely
 moderig - musty
 moosig - mossy
@@ -235,6 +251,7 @@ sausen - to whistle
 scheiden - to divorce
 scheppern - to clank
 scheußlich - dreadful, awful
+schieben - to push
 schleimig - slimy
 schlottern - to shiver, to shiver
 schlüpfrig - slippery
@@ -251,11 +268,14 @@ soeben - just
 soeben - just now
 sogar - even
 sogleich - immediately
+solch - such
 sonderbar - strange, odd
 sondergleichen - unparalleled
 sonst - otherwise
 sowenig - as little
 sprühen - to spray
+spöttisch - mocking
+spüren - to feel
 spüren - to sense, to feel
 stapfen - trump
 starr - stiff
@@ -263,30 +283,39 @@ stauen - to marvel
 staunen - to be amazed
 steil - steep
 stoßen - kick, punch
+streicheln - to stroke
 stumm - wordless, silent
 summen - to hum
 topfeben - flat as a pan
 trillern - to warble
+trösten - to comfort
 trübe - murky
 tuten - to toot
 umgekehrt - vice versa
+unerschụ̈tterlich - unshakeable
 unfähig - incapable
 unhöflich - impolite
 unumgạ̈nglich - necessary
 unvermeidlich - unavoidable
 verdrecken - filthy, dirty
 vergeblich - futile
+vergnügt - happy, cheerful
 verheul - swollen from crying
+vermutlich - probable
 vernommen - to question, to examine
 vernünftig - sensible
 verrutschen - to slip
+versagen - to fail
 verschlammt - muddy
 verschoben - to postpone
 versehentlich - inadvertent
 verstecken - to hide
 verstummen - to go silent
+vertragen - to tolerate
 vertragen - tolerate
+verweigern - to refuse
 verwesen - to decompose
+volkommen - perfect, complete
 vollkommen - perfectly
 voran - ahead
 vorder - front
@@ -302,6 +331,7 @@ wippen - to bob up and down
 wütend - angry
 zahllose - countless
 zerknittern - to crease, to crumble
+zerlegen - to dismantle
 zerren - to drag
 zischeln - to hiss, to whistle angirly
 zucken - to twitch, to jerk
