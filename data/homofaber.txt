@@ -22,6 +22,7 @@ begaffen - to stare
 begreifen - to understand
 behaupten - to assert
 beiläufig - casual
+besa̲u̲fen - get drunk
 beschimpfen - to swear
 besinnen - to reflect
 besonnt - sunlit
@@ -29,11 +30,13 @@ bestehen - to exist
 bestreiten - to contenst, to deny
 betreffend - concerning
 betteln - to beg
+beweisen - to prove
 beziehungsweise - respectively, or
 bloß - bare, only
 brüllen - shout, roar
 das Achselzucken - shrug
 das Dickicht – thicket
+das Eingeweide - insides, entrails
 das Erwachen - awakening
 das Fahrgestell - chassis
 das Farnkraut - fern
@@ -42,7 +45,9 @@ das Geklimper - plunking
 das Gerücht - rumor
 das Gespenst - ghost
 das Gewehr - rifle
+das Gewimmel - teeming mass
 das Gewimmel - throng, mass
+das Gewirr - babble of voices
 das Gewitter - storm
 das Hitze - heat
 das Händeschütteln - handshake
@@ -54,6 +59,7 @@ das Sieb - strainer
 das Staatsgebiet - national territory
 das Staunen - astonishment
 das Tal - valley
+das Tau - rope
 das Totenreich - kindgom of the dead
 das Trittbrett - running board
 das Zeitvertreib - pastime
@@ -62,11 +68,13 @@ der Aasgeier - vulture
 der After - anus
 der Aufenthalt - stay
 der Ausfall - failure, cancellation
+der Ausspruch - remark
 der Bub - boy, lad
 der Donner - thunder
 der Dunst - haze
 der Durchschlag - carbon copy
 der Ehebruch - adultry
+der Ekel - revulsion, disgust
 der Entschluss - decision
 der Esel - donkey; ass, idiot
 der Hafen - port, dock
@@ -77,13 +85,16 @@ der Hummer - lobster
 der Irrsinn - madness
 der Kahn - barge, rowing boat
 der Kamin - fireplace
+der Keim - shoot, seed, germ
 der Kiesel - pebble
 der Koller - rage
 der Krach - row
 der Kran - crane
 der Kranke - patient
 der Laie - the laymen
+der Leib - body, stomach
 der Molch - newt
+der Molche - newt
 der Pneu - tyre
 der Rohling – brute
 der Rückzug - retreat
@@ -92,14 +103,17 @@ der Schatten - shadow
 der Schaum - froth, foam
 der Scheinwerfer - spotlight
 der Schimmer - shimmer
+der Schlepper - tractor, tug
 der Schopf - crest
 der Schädel - skull
+der Sockel - base
 der Stoß - punch, kick, blow
 der Strohhut - straw hut
 der Sturz - fall, accident
 der Sumpf - marsh
 der Sumpf - swamp, marsh
 der Säugling - infant
+der Tümpel - pond
 der Umstand - fact, detail
 der Umweg - detour
 der Verschleiß - wear, consumption
@@ -157,6 +171,7 @@ die Stimmung - mood
 die Tinte - ink
 die Tracht - traditional costume
 die Tragfläche - wing
+die Trümmer - rubble
 die Tätigkeit - job
 die Unkenntlichkeit - unrecognizable state
 die Vernunft - reason
@@ -169,6 +184,7 @@ die Wut - fury
 die Zustellung - delivery, submission
 dreckig - filthy
 drehen - to turn
+drollig - funny, comical
 dunstig - hazy
 durchblicken - to hint
 eben - flat, even, just, precisely
@@ -186,6 +202,7 @@ entschlossen - determined
 entzückend - delightful
 erbrechen - to vomit
 erklärlich - understandable
+erledigen - to deal with, to resolve
 errechenbar - calculable
 errechnen - to calculate
 erschrecken - to be startled
@@ -195,6 +212,7 @@ erwähnen - to mention
 erzeugen - to produce
 falten - to fold
 fassen - to grab
+fassen - to grasp
 faul - lazy
 ferner - furthermore
 fetzen - to tear
@@ -202,11 +220,14 @@ flimmern - to flicker
 flitzen - to shoot, to dart
 flott - smart, quick, lively
 flüstern - to whisper
+foppen - to pull one
+fụ̈rchten - to be afraid of
 gelegentlich - occassional
 gemäß - according to
 geradezu - almost, direct, blunt
 Geratewohl - without direction, randomly
 gewissenhaft - conscientious
+glitschig - slippery
 greifbar - within reach
 gähnen - to yawn
 günsting - favorable
@@ -255,6 +276,7 @@ schieben - to push
 schleimig - slimy
 schlottern - to shiver, to shiver
 schlüpfrig - slippery
+schmierig - greasy
 schnurgerade - dead straight
 schonen - to spare, to protect
 schräg - slanted, tilted
@@ -309,6 +331,7 @@ versagen - to fail
 verschlammt - muddy
 verschoben - to postpone
 versehentlich - inadvertent
+versprechen - to promise
 verstecken - to hide
 verstummen - to go silent
 vertragen - to tolerate
@@ -316,6 +339,7 @@ vertragen - tolerate
 verweigern - to refuse
 verwesen - to decompose
 volkommen - perfect, complete
+vollkommen - perfect, complete
 vollkommen - perfectly
 voran - ahead
 vorder - front
@@ -327,6 +351,7 @@ weigern - to refuse
 widerlich - repulsive
 wieso - why
 wimmeln - to swarm
+winken - to wave
 wippen - to bob up and down
 wütend - angry
 zahllose - countless
@@ -334,6 +359,7 @@ zerknittern - to crease, to crumble
 zerlegen - to dismantle
 zerren - to drag
 zischeln - to hiss, to whistle angirly
+zucken - to twitch
 zucken - to twitch, to jerk
 zwingen - to force
 zünden - to ignite
