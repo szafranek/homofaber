@@ -17,6 +17,7 @@ auszuhalten - to endure
 auszuknipsen - to switch off
 ạbsehen - to leave aside, to ignore
 bangen - to be anxious
+baumeln - to dangle
 befürchten - to fear
 begaffen - to stare
 begreifen - to understand
@@ -92,6 +93,7 @@ der Krach - row
 der Kran - crane
 der Kranke - patient
 der Laie - the laymen
+der Landwirt - famer
 der Leib - body, stomach
 der Molch - newt
 der Molche - newt
@@ -146,13 +148,16 @@ die Faust - fist
 die Finsternis - darkness
 die Flechten - lichen
 die Fährte - trail
+die Fügung - providence
 die Geste - gesture
 die Glut - ember, ash, heat
 die Herkunft - origin
+die Hetze - rush
 die Hupe - horn
 die Hüfte - hip
 die Knarre - rattle
 die Kunstfee - fairy
+die Lawine - avalanche
 die Masern - measles
 die Muscheln - mussel
 die Mühe - trouble
@@ -203,6 +208,7 @@ entzückend - delightful
 erbrechen - to vomit
 erklärlich - understandable
 erledigen - to deal with, to resolve
+erraten - to guess
 errechenbar - calculable
 errechnen - to calculate
 erschrecken - to be startled
@@ -211,6 +217,7 @@ erwischen - to catch
 erwähnen - to mention
 erzeugen - to produce
 falten - to fold
+famos - splendid
 fassen - to grab
 fassen - to grasp
 faul - lazy
@@ -225,8 +232,11 @@ fụ̈rchten - to be afraid of
 gelegentlich - occassional
 gemäß - according to
 geradezu - almost, direct, blunt
+geradezu - downright
 Geratewohl - without direction, randomly
+geschwätzig - talktative
 gewissenhaft - conscientious
+gleichviel - no matter
 glitschig - slippery
 greifbar - within reach
 gähnen - to yawn
@@ -243,6 +253,7 @@ klagen - to complain
 klebrig - sticky
 klopfen - to knock
 kreidebleich - pale as chalk
+krempeln - to roll
 krumm - to bend
 kühn - bold, brave
 laut + Gen/Dat - according to
@@ -250,6 +261,7 @@ lauwarm - lukewarm
 lediglich - only, merely
 moderig - musty
 moosig - mossy
+mühsam - laborious, forced
 neuerdings - recently
 nichtsdestoweniger - nonetheless
 obschon - although
@@ -361,6 +373,7 @@ zerren - to drag
 zischeln - to hiss, to whistle angirly
 zucken - to twitch
 zucken - to twitch, to jerk
+zufällig - by chance
 zwingen - to force
 zünden - to ignite
 äußerst - extremely
